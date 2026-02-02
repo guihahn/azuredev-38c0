@@ -1,7 +1,9 @@
+```
 Ola, como estás?
 ```
 
 ### Generate creative marketing content
+
 ```bash
 python translatai.py generate --prompt "Write a catchy tagline for a new eco-friendly water bottle"
 ```
